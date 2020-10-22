@@ -5,7 +5,7 @@ I use GitHub mainly to collaborate on research projects (most of my repos are at
 
 Apart from work, I enjoy a lot of things. I ususally document them with one of my many cameras. I mainly use my Fujifilm X-series or my Hasselblad 500 C/M, preferrably loaded with Portra 400.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<reitancorp>&theme=<>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<reitancorp>&theme=<radical>" />
 
 *
 *
